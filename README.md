@@ -6,8 +6,11 @@ Go SDK for the Clova Extensions
 ## About Clova Extension Kit
 
 See the official documentation for more information.
+(References changes to naver from line)
 
-- https://clova-developers.line.me/guide/
+- ~~https://clova-developers.line.me/guide/~~
+- [CEK](https://developers.naver.com/console/clova/home_ext/)
+- [CIC](https://developers.naver.com/console/clova/client/Develop/CIC_Overview.md)
 
 
 ## Installation ##
